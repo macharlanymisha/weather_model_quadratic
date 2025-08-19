@@ -1,4 +1,3 @@
-# weather_model_quadratic
 Weather Modeling using Quadratic Equation
 This project demonstrates a simple weather prediction model using a quadratic function:
 
